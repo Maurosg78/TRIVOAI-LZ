@@ -1,0 +1,17 @@
+[
+    {
+      "food_name": "Producto X",
+      "energy_kcal": 120,
+      "fat_g": 7,
+      "carbs_g": 18,
+      "protein_g": 4
+    },
+    {
+      "food_name": "Producto Y",
+      "energy_kcal": 180,
+      "fat_g": 9,
+      "carbs_g": 22,
+      "protein_g": 5
+    }
+  ]
+  

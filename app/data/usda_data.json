@@ -1,0 +1,16 @@
+[
+    {
+        "product_name": "Producto 1",
+        "calories": 180,
+        "fat": 12,
+        "carbohydrates": 22,
+        "protein": 6
+    },
+    {
+        "product_name": "Producto 2",
+        "calories": 210,
+        "fat": 16,
+        "carbohydrates": 32,
+        "protein": 8
+    }
+]
